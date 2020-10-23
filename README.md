@@ -1,1 +1,1 @@
-# homeassistant_blinds
+Homeassistant blinds automation
